@@ -1,0 +1,6 @@
+@Accounting.APIEndpoint_HostAddress = http://localhost:5192
+
+GET {{Accounting.APIEndpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
